@@ -32,6 +32,7 @@ This project utilized the [**MIMIC-IV**](https://physionet.org/content/mimiciv/2
 ## Pipeline
 ### Dataset
 In this project, a total of seven datasets were used from the [**MIMIC-IV**](https://physionet.org/content/mimiciv/2.2/) data: three patient information datasets, ICU data, and three datasets for test indicators. Subsequently, the data were merged based on the 'hadm_id'. For the 'labevents' data, merging was carried out with the 'd_labitems' dataset based on the 'Item_id'. After grouping by each 'item_id', the average values were used as labels. For a detailed explanation of the dataset construction, please refer to the figure below and the MIMIC-IV documentation.
+<br><br>
 ![image](https://github.com/YunSeoHwan/DA_MIMIC-IV_Project/assets/48356954/c0046d18-eebb-4dbe-8ad8-6927ac88fcea)
 ![image](https://github.com/YunSeoHwan/DA_MIMIC-IV_Project/assets/48356954/b6c32656-78f0-4a4b-aebd-9a9c650b3c91)
 
