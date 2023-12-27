@@ -1,10 +1,12 @@
 # Project Title
 This project was conducted during the Data Analytics class in the second semester of 2023.
+<br><br>
 
 # Project Background 
 In hospitals, patient mortality and its causes are of utmost importance. 
 Therefore, this project aims to construct a classification model that predicts the risk of mortality using basic admission information and test results of patients, and to suggest ways to utilize this model. <br>
 This project utilized the [**MIMIC-IV**](https://physionet.org/content/mimiciv/2.2/) dataset.
+<br><br>
 
 # Project Process  
 
@@ -25,8 +27,7 @@ This project utilized the [**MIMIC-IV**](https://physionet.org/content/mimiciv/2
   <img src="https://img.shields.io/badge/MLP-000000?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/TabNet-000000?style=flat&logo=&logoColor=white"/>
 </div>
-<br>
-<br>
+<br><br>
 
 ## Pipeline
 ### Dataset
@@ -53,6 +54,8 @@ Tree-based models such as Decision Tree (DT) and XGBoost, as well as Deep Learni
 ## Role
 ### [**YunSeoHwan**](https://github.com/YunSeoHwan) : EDA, Preprocessing, Modeling, Interpretation<br>
 ### YunSungho : EDA, Preprocessing
+<br><br>
+
 # Result
 # Contribution
 # Limitation
