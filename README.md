@@ -10,17 +10,21 @@ This project utilized the [**MIMIC-IV**](https://physionet.org/content/mimiciv/2
 
 ## Stack
 ### Language & Library
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat&logo=Scikitlearn&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat&logo=Scikitlearn&logoColor=white"/>
+</div>
 
 ### Model
-<img src="https://img.shields.io/badge/DecisionTree-000000?style=flat&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-000000?style=flat&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLP-000000?style=flat&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/TabNet-000000?style=flat&logo=&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/DecisionTree-000000?style=flat&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-000000?style=flat&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLP-000000?style=flat&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TabNet-000000?style=flat&logo=&logoColor=white"/>
+</div>
 <br>
 <br>
 
